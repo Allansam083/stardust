@@ -1,0 +1,1001 @@
+Product,Age Group,Calories,Sugar (g),Protein (g),Fiber (g),Fat (g),Healthy/Unhealthy
+5 Star,36-60,254,32.6,3.6,0.5,9.1,Unhealthy
+5 Star,0-5,291,42.0,7.8,6.7,2.5,Unhealthy
+Lays Munch,18-35,359,40.7,17.1,11.8,11.5,Unhealthy
+Coke,36-60,469,34.3,1.5,11.5,1.0,Unhealthy
+Toblerone,18-35,149,16.0,20.6,7.9,7.3,Unhealthy
+Sprite,6-12,62,19.2,1.1,13.6,14.7,Unhealthy
+5050,6-12,158,1.3,27.1,10.2,2.6,Healthy
+Pringles,18-35,237,39.5,25.6,9.9,6.5,Unhealthy
+Pringles,6-12,371,30.8,4.0,3.4,19.9,Unhealthy
+Parle G,13-17,316,34.1,29.7,12.9,10.6,Unhealthy
+Alpenliebe,60+,114,10.2,21.9,1.8,6.2,Healthy
+Hershey's,36-60,429,11.0,17.6,7.0,9.5,Healthy
+Bingo,6-12,452,47.0,7.9,11.5,23.7,Unhealthy
+Good Day,13-17,204,20.4,27.3,7.8,3.5,Unhealthy
+Coke,0-5,295,3.9,3.6,14.9,19.4,Healthy
+Sprite,60+,437,24.5,21.9,1.8,19.3,Unhealthy
+Sprite,18-35,360,26.7,15.2,4.4,23.2,Unhealthy
+Lottie Choco Pie,6-12,324,15.2,10.0,0.7,12.0,Unhealthy
+Pringles,18-35,442,17.6,15.4,11.9,4.6,Unhealthy
+Alpenliebe,0-5,87,3.2,25.5,11.3,1.8,Healthy
+Coke,6-12,422,23.1,14.6,6.3,9.9,Unhealthy
+Dairy Milk,36-60,68,2.3,27.3,1.7,13.8,Unhealthy
+Hide & Seek,6-12,463,8.5,6.0,6.5,21.8,Healthy
+KitKat,0-5,121,7.3,22.2,6.6,2.1,Healthy
+Good Day,6-12,209,16.2,1.5,13.7,5.8,Unhealthy
+Lays Munch,13-17,292,7.2,1.1,12.8,22.3,Healthy
+5 Star,6-12,353,6.8,4.7,11.3,18.7,Unhealthy
+Alpenliebe,18-35,352,44.8,10.6,8.3,13.6,Unhealthy
+Coke,36-60,267,13.7,4.6,6.8,21.5,Healthy
+Bourbon,18-35,310,28.0,21.2,6.5,5.0,Unhealthy
+Pepsi,0-5,217,1.1,23.9,12.8,6.5,Healthy
+Pepsi,0-5,388,2.6,12.2,6.4,5.1,Healthy
+Pepsi,60+,81,18.6,10.1,8.0,16.2,Unhealthy
+Boost Packet,36-60,200,31.3,13.6,6.9,2.4,Unhealthy
+Sprite,0-5,485,46.2,21.7,13.3,15.9,Unhealthy
+Bourbon,60+,52,23.3,3.2,5.2,23.3,Unhealthy
+Alpenliebe,0-5,417,9.5,7.8,15.0,24.6,Healthy
+Maggi,6-12,162,12.5,25.0,4.0,13.4,Healthy
+Hershey's,36-60,198,0.9,5.0,4.9,17.1,Healthy
+Pringles,60+,448,35.7,22.8,1.8,18.9,Unhealthy
+5 Star,13-17,52,9.7,17.4,12.0,19.7,Healthy
+Good Day,0-5,460,39.3,24.9,2.9,3.6,Unhealthy
+5050,13-17,447,13.4,19.5,11.8,11.3,Healthy
+Toblerone,18-35,160,25.2,30.0,12.7,5.8,Unhealthy
+Pepsi,18-35,409,39.8,9.3,13.9,8.8,Unhealthy
+5 Star,0-5,135,8.9,27.3,12.6,15.0,Healthy
+Pringles,36-60,423,12.8,17.4,5.3,1.2,Healthy
+Bingo,0-5,364,28.7,7.0,12.3,10.7,Unhealthy
+Pringles,18-35,205,0.7,11.8,2.6,14.1,Healthy
+Maggi,0-5,197,36.6,20.7,5.3,3.4,Unhealthy
+KitKat,60+,204,43.0,6.6,13.1,20.4,Unhealthy
+KitKat,60+,438,4.2,9.3,0.8,9.6,Unhealthy
+Perk,18-35,192,2.2,9.0,8.5,11.5,Healthy
+Hide & Seek,13-17,105,30.7,23.5,2.5,12.4,Unhealthy
+Bourbon,18-35,181,46.0,18.8,7.4,4.4,Unhealthy
+Lays Munch,6-12,459,26.8,6.7,10.1,9.3,Unhealthy
+Coke,60+,102,23.7,6.9,8.1,10.8,Unhealthy
+Hide & Seek,36-60,328,34.9,23.0,8.3,8.2,Unhealthy
+Sprite,0-5,422,10.7,21.9,8.9,17.4,Healthy
+Perk,60+,150,40.0,8.4,0.5,16.2,Unhealthy
+Dairy Milk,13-17,143,22.3,18.4,13.4,13.5,Unhealthy
+KitKat,0-5,344,7.1,16.2,4.3,10.6,Healthy
+Toblerone,36-60,126,23.3,21.9,3.0,13.7,Unhealthy
+Pringles,36-60,185,11.6,18.6,4.6,15.1,Healthy
+Lottie Choco Pie,60+,465,17.5,22.7,2.6,10.7,Unhealthy
+Pringles,6-12,475,17.6,10.8,10.2,4.0,Unhealthy
+Hershey's,36-60,177,39.4,1.8,13.0,11.3,Unhealthy
+Maggi,36-60,276,35.6,6.3,12.1,1.2,Unhealthy
+Coke,6-12,313,15.1,26.6,2.2,6.1,Unhealthy
+Dairy Milk,60+,178,3.7,10.4,5.4,6.0,Healthy
+Lays Munch,0-5,235,14.7,27.6,10.2,2.4,Healthy
+Dairy Milk,0-5,449,49.8,13.6,5.3,23.8,Unhealthy
+Perk,13-17,382,33.7,16.9,6.7,15.3,Unhealthy
+Alpenliebe,36-60,418,2.9,19.9,11.0,10.4,Healthy
+Lays Munch,36-60,131,7.7,28.4,3.4,2.4,Healthy
+Hide & Seek,13-17,307,24.3,12.1,9.1,2.2,Unhealthy
+Oreo,18-35,164,35.1,11.4,1.6,20.4,Unhealthy
+Pringles,0-5,489,43.5,5.8,4.5,24.4,Unhealthy
+Boost Packet,13-17,95,45.9,15.5,7.8,13.4,Unhealthy
+Parle G,6-12,448,21.0,11.0,14.5,14.1,Unhealthy
+Alpenliebe,0-5,258,5.7,3.2,11.2,14.5,Healthy
+Pringles,18-35,430,35.8,12.8,6.7,13.1,Unhealthy
+Lottie Choco Pie,6-12,474,5.2,0.5,1.1,17.8,Unhealthy
+Perk,6-12,213,7.0,11.2,1.7,12.9,Healthy
+Sprite,13-17,366,46.2,0.3,14.6,14.6,Unhealthy
+Sprite,36-60,280,44.1,4.4,4.2,11.0,Unhealthy
+Pepsi,6-12,498,36.2,12.1,9.8,12.9,Unhealthy
+Pringles,13-17,78,46.4,24.8,0.4,21.1,Unhealthy
+5 Star,13-17,119,32.9,14.9,14.6,14.1,Unhealthy
+Pepsi,6-12,289,23.6,3.3,12.2,0.1,Unhealthy
+Hide & Seek,18-35,90,32.1,11.7,0.0,9.1,Unhealthy
+Lays Munch,6-12,248,47.5,14.3,14.3,16.3,Unhealthy
+Good Day,6-12,487,49.0,29.1,11.6,6.1,Unhealthy
+5050,36-60,363,37.9,8.7,3.2,0.1,Unhealthy
+Bourbon,60+,486,29.0,7.7,13.6,8.2,Unhealthy
+Coke,36-60,330,28.2,5.3,5.0,16.1,Unhealthy
+Lays Munch,60+,300,9.9,5.0,12.2,9.3,Healthy
+Maggi,0-5,457,46.0,26.9,13.4,18.2,Unhealthy
+Parle G,13-17,258,32.5,29.5,14.9,18.1,Unhealthy
+5050,36-60,128,22.3,18.8,14.1,19.5,Unhealthy
+Boost Packet,0-5,145,8.5,5.9,6.4,14.9,Healthy
+Bingo,60+,161,39.0,3.8,11.1,20.9,Unhealthy
+Good Day,0-5,107,23.9,13.4,13.4,5.3,Unhealthy
+Lottie Choco Pie,13-17,346,37.2,2.6,12.1,6.0,Unhealthy
+Bourbon,0-5,219,42.6,14.8,13.1,15.4,Unhealthy
+Parle G,0-5,371,46.9,27.9,13.8,8.3,Unhealthy
+Pringles,60+,240,48.6,14.7,13.8,19.1,Unhealthy
+Bingo,13-17,254,32.7,29.2,4.1,0.7,Unhealthy
+5 Star,60+,386,18.4,3.1,8.8,5.5,Unhealthy
+Dairy Milk,18-35,304,43.1,21.7,13.1,8.9,Unhealthy
+Boost Packet,6-12,52,2.6,12.5,12.7,6.5,Healthy
+Dairy Milk,60+,414,35.4,29.4,9.6,1.5,Unhealthy
+Good Day,18-35,478,12.0,18.6,12.0,23.7,Healthy
+Parle G,6-12,401,13.3,12.0,8.9,12.7,Healthy
+Maggi,0-5,451,38.4,5.5,12.9,10.7,Unhealthy
+Bourbon,36-60,280,25.0,12.1,10.2,15.8,Unhealthy
+Pringles,60+,287,28.2,26.5,8.9,17.7,Unhealthy
+5050,0-5,421,41.0,0.7,0.4,18.8,Unhealthy
+Hershey's,60+,353,4.4,9.6,7.4,9.0,Healthy
+Perk,36-60,403,41.0,18.6,1.2,13.2,Unhealthy
+Perk,18-35,316,46.3,6.0,4.3,22.4,Unhealthy
+Bingo,13-17,435,35.4,1.4,6.4,19.1,Unhealthy
+Bingo,60+,209,47.7,11.1,7.3,14.4,Unhealthy
+Dairy Milk,13-17,328,47.8,21.3,6.7,14.5,Unhealthy
+Alpenliebe,0-5,488,16.1,23.2,3.3,11.6,Unhealthy
+Boost Packet,0-5,402,42.6,5.2,7.0,12.4,Unhealthy
+Hide & Seek,0-5,151,33.7,11.7,4.2,23.2,Unhealthy
+Maggi,6-12,111,44.2,8.9,9.1,20.6,Unhealthy
+Bingo,36-60,150,13.1,23.2,9.4,3.1,Healthy
+Lottie Choco Pie,36-60,101,20.0,3.5,2.3,2.0,Unhealthy
+5050,6-12,270,3.8,8.1,12.4,16.9,Healthy
+Oreo,6-12,73,42.9,26.6,8.5,3.7,Unhealthy
+Pepsi,60+,176,32.4,13.3,2.1,16.0,Unhealthy
+Hershey's,60+,347,46.2,4.5,5.8,10.3,Unhealthy
+Bingo,13-17,230,40.9,12.7,12.5,18.3,Unhealthy
+Lays Munch,36-60,179,37.8,8.4,14.7,24.2,Unhealthy
+Dairy Milk,0-5,177,28.2,25.3,14.6,1.3,Unhealthy
+Parle G,13-17,426,13.5,1.4,8.5,8.4,Unhealthy
+Oreo,13-17,188,7.9,19.4,2.0,6.4,Healthy
+Lottie Choco Pie,13-17,84,13.7,9.3,11.6,4.8,Healthy
+Sprite,13-17,140,17.0,3.0,14.9,4.6,Unhealthy
+Coke,13-17,165,9.6,27.8,6.2,12.3,Healthy
+Pepsi,60+,203,42.9,20.8,11.7,5.1,Unhealthy
+Bourbon,6-12,150,46.1,4.3,14.5,1.2,Unhealthy
+Boost Packet,60+,63,3.9,19.6,8.2,21.1,Healthy
+Pringles,6-12,480,18.7,6.0,10.3,9.5,Unhealthy
+Pringles,13-17,300,31.3,26.2,0.8,7.6,Unhealthy
+Lottie Choco Pie,60+,288,46.6,11.8,8.0,5.4,Unhealthy
+Pringles,6-12,120,46.1,8.8,0.1,11.9,Unhealthy
+Maggi,0-5,355,15.1,28.1,14.2,11.6,Unhealthy
+Parle G,13-17,396,43.6,5.4,14.8,9.4,Unhealthy
+Dairy Milk,36-60,410,23.0,10.8,4.1,6.6,Unhealthy
+Lays Munch,18-35,399,12.4,0.9,8.1,15.1,Unhealthy
+Coke,36-60,58,40.2,10.3,7.9,14.0,Unhealthy
+Dairy Milk,6-12,335,39.3,5.6,0.0,2.7,Unhealthy
+Bourbon,18-35,223,40.6,0.1,11.1,15.6,Unhealthy
+5050,6-12,407,19.4,24.5,2.3,24.3,Unhealthy
+Good Day,60+,64,22.2,26.3,14.7,5.0,Unhealthy
+Good Day,18-35,265,11.8,23.0,4.7,4.7,Healthy
+Pepsi,6-12,56,19.4,21.9,13.3,6.4,Unhealthy
+5050,13-17,73,15.7,29.2,0.3,10.6,Unhealthy
+Boost Packet,13-17,247,11.0,29.9,10.4,3.7,Healthy
+Bourbon,60+,50,18.9,13.1,12.2,22.2,Unhealthy
+Bourbon,18-35,338,46.7,24.3,9.0,18.7,Unhealthy
+Lays Munch,0-5,461,34.4,0.1,1.7,13.3,Unhealthy
+Bourbon,6-12,455,32.1,25.4,11.3,4.5,Unhealthy
+Bourbon,60+,298,7.4,5.0,9.8,10.9,Healthy
+5050,18-35,472,31.4,22.6,1.3,11.4,Unhealthy
+Lays Munch,6-12,412,9.8,1.2,4.6,11.3,Unhealthy
+Bingo,13-17,374,7.0,18.7,13.9,2.2,Healthy
+Lottie Choco Pie,18-35,493,32.2,29.4,4.5,23.4,Unhealthy
+Parle G,18-35,409,12.0,21.2,12.4,23.1,Healthy
+Perk,36-60,381,23.8,24.6,8.3,13.0,Unhealthy
+Perk,60+,232,35.2,20.0,13.2,2.8,Unhealthy
+Bourbon,36-60,425,24.3,2.5,2.2,7.0,Unhealthy
+Maggi,18-35,464,18.3,17.0,7.5,5.5,Unhealthy
+Boost Packet,0-5,181,16.8,3.1,14.2,8.2,Unhealthy
+Boost Packet,60+,107,38.1,2.0,7.0,23.8,Unhealthy
+Pepsi,13-17,441,22.3,9.2,10.9,1.4,Unhealthy
+5050,13-17,106,14.1,3.5,2.3,1.7,Healthy
+Oreo,60+,369,15.7,25.7,3.6,15.1,Unhealthy
+Toblerone,60+,481,34.0,6.4,10.8,22.1,Unhealthy
+Toblerone,13-17,95,41.3,6.9,11.2,0.6,Unhealthy
+5050,60+,67,36.3,9.7,10.8,4.7,Unhealthy
+5050,18-35,343,11.5,20.9,9.4,17.8,Healthy
+5050,60+,212,1.3,3.5,8.9,20.2,Healthy
+5050,36-60,500,6.4,7.9,7.8,3.6,Healthy
+Coke,6-12,328,4.0,23.6,9.1,1.1,Healthy
+5050,36-60,94,13.7,17.3,6.3,12.8,Healthy
+Bingo,60+,256,31.4,26.6,8.7,23.1,Unhealthy
+KitKat,6-12,466,25.4,24.1,11.5,2.1,Unhealthy
+Lays Munch,13-17,216,10.5,7.4,6.9,13.7,Healthy
+Dairy Milk,6-12,210,24.0,22.2,5.7,7.9,Unhealthy
+5 Star,18-35,411,10.6,3.7,10.0,1.0,Unhealthy
+Bourbon,0-5,163,45.5,8.5,10.4,19.6,Unhealthy
+Pringles,13-17,220,22.2,24.6,4.6,3.0,Unhealthy
+Maggi,0-5,420,37.6,16.3,2.4,3.8,Unhealthy
+Pringles,6-12,193,16.3,22.4,11.1,23.6,Unhealthy
+Bingo,13-17,477,32.9,4.6,9.3,3.8,Unhealthy
+Boost Packet,13-17,123,14.4,22.3,14.5,13.2,Healthy
+Hide & Seek,36-60,157,18.2,6.1,7.3,4.5,Unhealthy
+Boost Packet,60+,234,38.3,10.5,1.1,13.9,Unhealthy
+Sprite,13-17,268,29.9,4.6,6.6,19.4,Unhealthy
+Dairy Milk,0-5,224,15.3,8.0,3.9,24.6,Unhealthy
+Boost Packet,60+,408,25.0,0.8,4.1,10.0,Unhealthy
+Oreo,6-12,260,16.7,26.3,7.9,9.6,Unhealthy
+5050,18-35,89,30.5,3.8,10.7,2.4,Unhealthy
+Bourbon,13-17,78,14.0,22.0,3.7,8.2,Healthy
+5050,0-5,189,48.8,24.5,9.8,18.2,Unhealthy
+Dairy Milk,13-17,117,23.6,29.8,6.0,18.4,Unhealthy
+Oreo,13-17,376,22.5,1.8,13.6,16.6,Unhealthy
+Perk,60+,447,42.4,4.6,11.3,2.3,Unhealthy
+Pepsi,18-35,181,25.9,24.6,0.9,11.8,Unhealthy
+Lottie Choco Pie,18-35,168,40.9,6.9,12.0,21.1,Unhealthy
+Oreo,18-35,100,30.5,7.8,13.9,4.9,Unhealthy
+Maggi,60+,256,26.2,27.8,3.5,18.5,Unhealthy
+Oreo,60+,440,20.3,3.3,9.6,22.0,Unhealthy
+Oreo,18-35,205,48.4,25.3,13.8,20.6,Unhealthy
+Oreo,60+,445,25.6,15.9,4.6,2.6,Unhealthy
+KitKat,18-35,316,33.2,14.9,14.4,21.2,Unhealthy
+Pepsi,36-60,440,20.5,23.1,2.6,4.8,Unhealthy
+5050,0-5,239,27.9,3.3,3.5,1.2,Unhealthy
+Bingo,13-17,114,3.9,25.8,3.1,14.3,Healthy
+Hershey's,13-17,90,39.9,24.1,1.4,4.5,Unhealthy
+Lottie Choco Pie,13-17,470,33.6,4.0,7.5,22.2,Unhealthy
+Alpenliebe,60+,216,2.4,11.3,7.5,8.9,Healthy
+Hide & Seek,36-60,382,42.5,5.9,3.4,6.7,Unhealthy
+Perk,13-17,129,16.2,26.2,8.4,24.8,Unhealthy
+KitKat,36-60,386,16.3,20.0,11.6,15.0,Unhealthy
+Dairy Milk,0-5,311,5.7,27.9,14.5,9.1,Healthy
+Good Day,60+,364,34.5,0.4,3.7,16.1,Unhealthy
+Boost Packet,0-5,158,44.9,0.2,13.5,2.6,Unhealthy
+Hershey's,13-17,219,16.1,2.6,1.9,13.7,Unhealthy
+Good Day,0-5,377,37.6,6.7,0.4,20.3,Unhealthy
+Perk,60+,108,16.2,24.3,0.7,5.0,Unhealthy
+Bingo,60+,230,13.2,26.6,4.4,5.1,Healthy
+Good Day,18-35,225,23.5,0.6,13.9,22.9,Unhealthy
+Pepsi,60+,385,47.8,5.6,0.2,21.3,Unhealthy
+KitKat,0-5,248,21.1,23.1,1.0,9.2,Unhealthy
+Hershey's,60+,175,5.0,11.6,13.5,13.7,Healthy
+KitKat,0-5,59,43.1,25.7,7.0,19.1,Unhealthy
+Pringles,13-17,238,31.6,14.6,3.2,21.6,Unhealthy
+Hershey's,6-12,244,31.2,2.2,2.9,5.2,Unhealthy
+Lottie Choco Pie,0-5,370,23.7,13.4,9.5,16.2,Unhealthy
+Lottie Choco Pie,0-5,208,24.5,17.0,2.1,8.5,Unhealthy
+Alpenliebe,36-60,308,40.4,26.6,3.2,1.8,Unhealthy
+Good Day,36-60,356,39.4,5.1,8.8,11.8,Unhealthy
+Lays Munch,0-5,403,1.9,22.0,6.4,12.8,Healthy
+5050,6-12,288,24.6,29.0,3.2,5.1,Unhealthy
+Coke,13-17,488,38.0,25.0,10.5,23.3,Unhealthy
+Alpenliebe,6-12,420,37.6,0.9,9.1,4.1,Unhealthy
+Good Day,36-60,126,21.1,16.2,5.1,8.7,Unhealthy
+Toblerone,60+,490,4.1,3.5,12.4,9.4,Unhealthy
+Hershey's,18-35,490,23.2,28.8,8.7,3.9,Unhealthy
+Sprite,36-60,356,28.7,1.2,9.4,1.9,Unhealthy
+Hershey's,60+,218,13.3,19.3,4.6,13.4,Healthy
+Good Day,6-12,241,47.0,20.7,11.1,16.4,Unhealthy
+Good Day,0-5,468,21.2,10.5,11.3,17.2,Unhealthy
+Oreo,36-60,434,45.4,5.9,14.4,4.7,Unhealthy
+Alpenliebe,60+,148,23.9,15.1,3.3,0.3,Unhealthy
+5 Star,0-5,83,10.6,2.3,10.6,1.0,Unhealthy
+Toblerone,6-12,385,0.6,26.6,1.1,8.8,Unhealthy
+5050,36-60,81,12.6,20.0,8.8,22.3,Healthy
+Hide & Seek,13-17,197,45.3,4.7,8.6,11.6,Unhealthy
+Coke,13-17,99,34.3,17.3,0.9,4.3,Unhealthy
+Bourbon,6-12,192,30.0,3.5,0.9,15.0,Unhealthy
+Dairy Milk,0-5,262,10.9,21.0,13.6,4.8,Healthy
+Sprite,0-5,177,37.5,21.0,14.8,6.0,Unhealthy
+Toblerone,36-60,359,36.1,2.9,4.3,19.5,Unhealthy
+Sprite,0-5,370,5.3,15.4,4.0,9.2,Healthy
+Sprite,36-60,415,5.4,15.3,14.6,4.7,Healthy
+Toblerone,36-60,199,1.8,21.1,9.2,9.5,Healthy
+Lottie Choco Pie,13-17,401,20.7,15.4,6.1,3.3,Unhealthy
+5 Star,0-5,134,44.4,7.4,7.5,6.8,Unhealthy
+Lottie Choco Pie,18-35,408,48.5,2.8,13.8,18.5,Unhealthy
+5050,0-5,150,34.7,22.0,10.9,24.5,Unhealthy
+Oreo,13-17,80,22.4,0.3,7.4,22.7,Unhealthy
+Lottie Choco Pie,0-5,161,20.5,3.3,14.2,6.3,Unhealthy
+Parle G,13-17,402,17.8,1.6,7.8,9.6,Unhealthy
+Sprite,18-35,430,39.3,6.3,9.2,12.4,Unhealthy
+Oreo,36-60,470,30.9,2.9,6.1,3.7,Unhealthy
+Oreo,60+,138,6.4,16.5,1.2,2.5,Healthy
+Bourbon,18-35,331,41.7,15.9,6.0,0.1,Unhealthy
+Dairy Milk,13-17,206,46.6,13.5,4.0,0.4,Unhealthy
+Bingo,60+,143,22.9,9.5,4.6,19.1,Unhealthy
+Bingo,0-5,372,8.3,2.1,0.0,10.0,Unhealthy
+Perk,18-35,370,38.7,1.4,7.4,19.8,Unhealthy
+Lays Munch,60+,414,30.6,27.8,6.1,2.3,Unhealthy
+Lays Munch,36-60,106,30.4,21.1,3.4,17.1,Unhealthy
+Sprite,60+,470,20.6,29.9,5.6,3.9,Unhealthy
+Boost Packet,60+,230,32.3,8.9,8.9,4.7,Unhealthy
+Boost Packet,6-12,306,7.9,4.3,5.2,19.2,Unhealthy
+Coke,0-5,207,10.0,15.2,7.9,21.6,Healthy
+Parle G,18-35,214,33.4,2.5,8.8,4.9,Unhealthy
+KitKat,6-12,106,44.1,20.0,1.5,22.2,Unhealthy
+Bingo,60+,477,16.2,23.3,0.2,24.2,Unhealthy
+Hide & Seek,60+,462,10.8,1.2,1.2,22.4,Unhealthy
+Bingo,13-17,135,40.3,10.0,9.3,20.6,Unhealthy
+Maggi,6-12,429,31.4,28.2,9.1,8.1,Unhealthy
+Pringles,18-35,373,1.3,12.5,10.6,4.6,Healthy
+Lottie Choco Pie,36-60,427,4.4,25.6,11.3,24.9,Healthy
+Hershey's,18-35,335,19.9,14.7,3.3,2.1,Unhealthy
+Pringles,60+,341,50.0,12.1,3.3,7.2,Unhealthy
+Alpenliebe,6-12,231,37.4,29.4,11.5,16.0,Unhealthy
+Oreo,0-5,185,30.9,0.0,14.9,24.9,Unhealthy
+Perk,13-17,209,27.3,6.7,13.4,8.7,Unhealthy
+5050,18-35,364,32.2,3.6,6.0,8.1,Unhealthy
+Maggi,6-12,392,13.5,3.2,2.6,17.9,Unhealthy
+Boost Packet,18-35,123,16.5,10.8,11.4,24.3,Unhealthy
+KitKat,60+,242,0.1,24.7,14.8,23.1,Healthy
+Boost Packet,0-5,177,32.1,26.3,11.1,4.2,Unhealthy
+Lays Munch,6-12,349,6.5,26.3,6.2,6.4,Healthy
+Oreo,60+,450,24.5,17.0,2.1,11.2,Unhealthy
+Dairy Milk,13-17,82,6.2,15.0,7.6,18.9,Healthy
+Good Day,13-17,291,30.7,2.4,1.5,17.5,Unhealthy
+Good Day,36-60,137,32.9,27.1,6.1,13.7,Unhealthy
+Pepsi,18-35,193,41.9,18.3,10.0,17.9,Unhealthy
+Coke,13-17,180,9.3,11.7,4.2,21.1,Healthy
+Hershey's,60+,403,48.3,0.4,14.4,10.2,Unhealthy
+Hide & Seek,13-17,87,38.3,13.9,4.8,7.3,Unhealthy
+KitKat,60+,349,48.8,22.7,11.5,12.1,Unhealthy
+Alpenliebe,6-12,418,11.0,11.1,3.9,14.6,Healthy
+Oreo,13-17,215,19.5,14.7,4.0,17.0,Unhealthy
+Dairy Milk,0-5,408,26.2,22.3,11.6,6.7,Unhealthy
+Good Day,0-5,134,6.4,8.2,14.5,9.8,Healthy
+Coke,18-35,173,41.1,23.6,9.5,19.2,Unhealthy
+Alpenliebe,60+,276,16.3,15.3,5.2,24.2,Unhealthy
+Alpenliebe,6-12,347,21.4,6.8,4.7,0.8,Unhealthy
+Oreo,13-17,476,2.4,26.0,7.8,16.9,Healthy
+Oreo,18-35,359,19.0,17.9,0.4,4.0,Unhealthy
+Parle G,6-12,347,16.9,17.1,4.4,18.9,Unhealthy
+Bourbon,0-5,276,12.2,13.1,0.6,24.3,Healthy
+Sprite,18-35,52,23.2,18.6,7.4,5.3,Unhealthy
+Maggi,13-17,353,47.7,13.4,6.3,15.5,Unhealthy
+Hide & Seek,60+,79,7.6,25.8,11.5,11.0,Healthy
+Boost Packet,0-5,470,9.5,12.5,6.6,5.5,Healthy
+Dairy Milk,18-35,204,4.6,19.8,2.6,5.9,Healthy
+Coke,13-17,303,49.9,7.4,8.1,4.8,Unhealthy
+5 Star,6-12,359,22.9,6.8,10.2,11.0,Unhealthy
+5 Star,13-17,82,4.0,0.5,11.8,16.8,Unhealthy
+Hide & Seek,6-12,342,23.8,24.8,14.8,7.1,Unhealthy
+Oreo,13-17,182,33.1,20.7,5.8,0.8,Unhealthy
+5 Star,13-17,495,33.9,28.3,6.0,20.0,Unhealthy
+KitKat,13-17,290,1.2,0.6,7.4,2.7,Healthy
+Perk,0-5,73,23.5,1.7,13.3,6.8,Unhealthy
+Perk,60+,187,23.3,23.1,11.8,20.9,Unhealthy
+5050,13-17,423,43.8,29.7,14.5,0.5,Unhealthy
+KitKat,18-35,380,42.1,0.3,8.7,18.6,Unhealthy
+Sprite,13-17,86,43.2,28.3,7.3,19.7,Unhealthy
+Coke,36-60,83,43.8,12.6,9.5,2.8,Unhealthy
+Sprite,18-35,351,35.4,22.4,11.5,16.9,Unhealthy
+Bingo,0-5,423,14.1,11.0,8.9,17.6,Healthy
+Bingo,18-35,313,11.6,19.0,10.7,7.4,Healthy
+Dairy Milk,18-35,199,14.4,3.5,8.7,13.3,Healthy
+Bourbon,0-5,364,40.5,8.3,2.9,0.3,Unhealthy
+Good Day,0-5,236,36.2,27.8,4.3,21.4,Unhealthy
+Good Day,0-5,182,30.4,8.7,13.4,0.8,Unhealthy
+Alpenliebe,60+,237,44.3,20.4,11.1,7.3,Unhealthy
+Lottie Choco Pie,0-5,221,5.9,19.8,9.3,9.6,Healthy
+Pringles,18-35,382,46.6,4.7,2.7,16.5,Unhealthy
+Hide & Seek,36-60,289,40.1,5.5,12.5,5.5,Unhealthy
+Bourbon,6-12,89,27.6,28.2,2.9,21.8,Unhealthy
+KitKat,36-60,289,4.4,18.5,9.7,11.8,Healthy
+Dairy Milk,13-17,251,48.9,12.7,5.3,10.1,Unhealthy
+5 Star,0-5,287,12.1,8.9,2.8,14.8,Healthy
+Coke,36-60,191,6.9,15.2,1.1,23.7,Healthy
+Lays Munch,0-5,129,17.1,1.7,3.7,22.8,Unhealthy
+Pringles,6-12,279,49.7,25.6,5.6,12.9,Unhealthy
+Perk,36-60,357,37.6,24.4,8.6,13.3,Unhealthy
+Parle G,13-17,205,24.7,2.1,9.5,12.4,Unhealthy
+KitKat,0-5,142,2.1,18.9,0.4,9.8,Healthy
+Sprite,13-17,220,28.8,14.8,7.4,13.0,Unhealthy
+Hershey's,36-60,91,33.7,0.6,10.9,3.7,Unhealthy
+Sprite,18-35,331,1.5,8.0,7.7,21.1,Healthy
+5050,6-12,410,39.9,16.0,4.2,8.1,Unhealthy
+5 Star,0-5,437,36.8,22.9,8.1,5.5,Unhealthy
+Good Day,18-35,157,14.4,18.1,8.3,15.4,Healthy
+Dairy Milk,36-60,87,5.2,21.2,1.1,9.1,Unhealthy
+Sprite,13-17,227,47.1,29.0,0.8,23.7,Unhealthy
+Parle G,18-35,77,21.0,28.8,13.0,20.9,Unhealthy
+Boost Packet,36-60,151,43.5,29.5,1.8,7.6,Unhealthy
+Hide & Seek,18-35,268,9.2,4.6,9.1,19.7,Healthy
+Good Day,6-12,207,34.7,26.8,6.4,18.1,Unhealthy
+Hide & Seek,13-17,441,14.4,13.2,13.2,4.8,Healthy
+Lottie Choco Pie,0-5,393,30.3,28.2,4.3,4.5,Unhealthy
+Toblerone,36-60,445,11.5,6.0,11.3,16.2,Healthy
+Hide & Seek,6-12,417,43.1,10.7,12.7,8.9,Unhealthy
+Dairy Milk,60+,311,41.2,17.9,11.1,6.1,Unhealthy
+Lottie Choco Pie,60+,125,32.1,1.3,4.9,13.0,Unhealthy
+Perk,18-35,474,23.5,7.9,1.3,12.5,Unhealthy
+Bourbon,18-35,226,23.1,22.0,13.4,15.3,Unhealthy
+Pepsi,6-12,442,16.8,3.6,4.1,21.4,Unhealthy
+Pringles,36-60,329,3.2,15.6,11.7,24.2,Healthy
+5050,6-12,439,37.0,22.5,12.2,8.8,Unhealthy
+Toblerone,13-17,406,33.8,1.3,12.6,6.0,Unhealthy
+Pringles,60+,413,2.2,11.3,1.3,2.9,Unhealthy
+Oreo,60+,219,37.5,16.8,11.2,2.2,Unhealthy
+Coke,13-17,317,29.4,21.3,7.4,2.6,Unhealthy
+KitKat,6-12,196,39.8,21.6,0.6,22.3,Unhealthy
+Coke,0-5,499,47.1,2.6,11.8,12.4,Unhealthy
+Toblerone,60+,135,3.8,14.2,5.5,15.0,Healthy
+Hershey's,13-17,235,40.3,16.2,1.5,7.9,Unhealthy
+Boost Packet,18-35,194,4.0,12.5,8.2,20.9,Healthy
+Sprite,60+,54,39.3,3.2,8.0,10.9,Unhealthy
+Pepsi,60+,331,21.6,14.9,8.1,13.0,Unhealthy
+Alpenliebe,36-60,207,26.3,14.9,4.5,5.6,Unhealthy
+5050,13-17,278,15.3,4.5,1.6,21.4,Unhealthy
+Lottie Choco Pie,60+,471,2.7,7.2,3.9,22.5,Healthy
+Bingo,6-12,52,25.7,13.1,3.3,7.0,Unhealthy
+Toblerone,36-60,67,4.1,5.4,3.1,4.0,Healthy
+5050,13-17,413,46.8,28.2,3.9,1.6,Unhealthy
+Boost Packet,0-5,80,35.1,13.8,6.0,4.0,Unhealthy
+Sprite,36-60,58,4.6,12.3,8.7,20.0,Healthy
+Boost Packet,13-17,378,24.8,23.5,8.9,8.8,Unhealthy
+Maggi,0-5,170,12.5,19.6,8.9,9.2,Healthy
+Maggi,36-60,115,1.1,11.9,7.6,18.8,Healthy
+Alpenliebe,13-17,341,23.7,5.6,13.4,11.0,Unhealthy
+Dairy Milk,0-5,383,27.3,25.7,6.6,8.6,Unhealthy
+Perk,36-60,281,18.6,23.0,12.8,17.1,Unhealthy
+Sprite,60+,327,9.8,7.5,5.5,22.6,Healthy
+Sprite,13-17,125,30.0,1.5,13.5,11.4,Unhealthy
+Parle G,60+,187,20.3,11.7,12.4,1.9,Unhealthy
+Oreo,0-5,317,33.3,17.6,0.0,6.0,Unhealthy
+Bourbon,0-5,434,41.4,11.3,5.3,17.6,Unhealthy
+5 Star,0-5,117,8.6,16.6,9.4,12.1,Healthy
+Perk,18-35,188,30.5,17.8,1.0,6.4,Unhealthy
+Lays Munch,13-17,164,25.9,11.5,3.2,12.9,Unhealthy
+Lottie Choco Pie,60+,57,20.5,19.6,7.9,18.7,Unhealthy
+Good Day,18-35,133,42.8,25.7,5.2,8.2,Unhealthy
+Lottie Choco Pie,18-35,397,14.6,4.7,0.2,6.4,Unhealthy
+Perk,6-12,221,17.7,3.9,14.1,2.2,Unhealthy
+5050,0-5,109,38.8,0.2,5.5,13.0,Unhealthy
+Bingo,0-5,244,3.8,7.0,11.4,15.9,Healthy
+Good Day,18-35,436,37.2,0.1,1.1,7.3,Unhealthy
+Parle G,13-17,120,7.6,14.5,7.5,17.7,Healthy
+Bourbon,0-5,311,20.5,20.7,8.5,18.4,Unhealthy
+Parle G,6-12,51,18.1,7.0,7.0,9.7,Unhealthy
+Lays Munch,60+,252,8.6,13.8,10.7,6.8,Healthy
+Maggi,18-35,239,15.2,6.9,8.5,1.6,Unhealthy
+Hershey's,6-12,142,18.5,23.5,6.6,12.9,Unhealthy
+Bourbon,36-60,374,6.0,16.3,7.2,19.0,Healthy
+Dairy Milk,36-60,347,25.5,7.0,1.4,4.5,Unhealthy
+Hide & Seek,0-5,452,5.7,9.3,0.2,12.8,Unhealthy
+Hershey's,13-17,219,12.4,22.1,8.9,20.2,Healthy
+Lays Munch,18-35,107,25.1,24.8,0.7,17.8,Unhealthy
+Boost Packet,0-5,268,40.1,19.7,3.2,14.5,Unhealthy
+Lottie Choco Pie,0-5,288,38.8,18.5,7.9,4.0,Unhealthy
+Hershey's,6-12,348,41.5,29.4,0.3,23.8,Unhealthy
+KitKat,13-17,327,48.2,26.0,11.9,17.1,Unhealthy
+5 Star,0-5,171,22.8,29.8,14.1,15.6,Unhealthy
+5 Star,18-35,427,6.7,13.8,14.2,10.0,Healthy
+Coke,0-5,276,26.3,17.9,4.7,22.6,Unhealthy
+Hide & Seek,18-35,429,19.8,9.5,4.4,18.1,Unhealthy
+Alpenliebe,18-35,254,4.8,20.6,9.2,8.1,Healthy
+Maggi,60+,77,26.7,21.1,3.0,20.5,Unhealthy
+Oreo,13-17,254,4.3,22.1,9.9,24.2,Healthy
+Lays Munch,60+,387,32.4,21.2,12.8,0.8,Unhealthy
+Parle G,6-12,399,48.3,27.5,7.4,23.5,Unhealthy
+5 Star,18-35,455,37.9,3.2,1.0,13.0,Unhealthy
+5 Star,36-60,65,0.2,11.1,10.0,6.3,Healthy
+Bourbon,18-35,262,15.7,22.9,2.6,8.3,Unhealthy
+Oreo,60+,450,42.7,28.4,4.8,24.2,Unhealthy
+5050,6-12,393,18.1,18.7,7.0,9.1,Unhealthy
+Bourbon,0-5,483,10.6,8.7,4.0,4.9,Healthy
+Boost Packet,6-12,272,1.7,20.7,0.3,6.2,Healthy
+Pepsi,36-60,163,0.1,17.5,8.1,23.5,Healthy
+Sprite,6-12,266,4.3,18.8,10.8,7.6,Healthy
+Bourbon,36-60,461,38.7,12.4,13.1,11.3,Unhealthy
+Lays Munch,60+,133,18.2,5.5,4.9,4.7,Unhealthy
+Maggi,13-17,427,3.7,21.6,4.3,24.4,Healthy
+Boost Packet,0-5,391,36.7,11.6,14.9,5.4,Unhealthy
+5 Star,0-5,207,42.4,11.0,7.7,19.0,Unhealthy
+Parle G,0-5,199,45.9,12.6,0.2,2.9,Unhealthy
+Bourbon,6-12,70,7.0,22.9,10.4,18.4,Healthy
+Coke,36-60,484,49.8,0.8,1.3,16.6,Unhealthy
+Parle G,36-60,396,39.4,15.7,1.6,6.7,Unhealthy
+Good Day,36-60,295,35.7,19.7,5.2,24.9,Unhealthy
+Lottie Choco Pie,0-5,372,1.0,27.9,10.1,6.8,Healthy
+Alpenliebe,18-35,167,3.9,3.1,2.7,16.5,Healthy
+Alpenliebe,36-60,269,43.1,24.6,8.9,7.4,Unhealthy
+Alpenliebe,36-60,490,31.0,2.0,6.6,12.0,Unhealthy
+Pringles,0-5,405,14.4,17.0,3.7,6.3,Healthy
+Maggi,60+,126,26.9,23.6,7.0,20.2,Unhealthy
+Parle G,0-5,431,46.1,29.4,5.6,19.9,Unhealthy
+Bourbon,13-17,65,42.2,3.4,9.2,12.4,Unhealthy
+Oreo,6-12,401,6.5,23.8,2.8,15.5,Unhealthy
+Maggi,60+,426,43.9,10.7,2.4,19.5,Unhealthy
+Lays Munch,6-12,127,1.4,27.5,9.9,21.6,Healthy
+Toblerone,36-60,379,39.0,13.4,12.0,13.4,Unhealthy
+Lays Munch,36-60,459,34.4,29.5,12.2,24.4,Unhealthy
+Lays Munch,0-5,433,33.4,6.0,13.7,15.4,Unhealthy
+Good Day,36-60,390,1.7,18.9,8.5,1.7,Healthy
+Hide & Seek,18-35,212,10.6,16.3,13.4,21.7,Healthy
+Good Day,13-17,454,26.1,13.5,8.7,16.0,Unhealthy
+Boost Packet,60+,438,29.8,21.6,2.5,9.0,Unhealthy
+Hide & Seek,18-35,385,3.5,1.2,11.5,5.4,Unhealthy
+Alpenliebe,13-17,151,8.2,0.1,8.2,13.0,Healthy
+Coke,36-60,66,24.8,12.9,12.0,22.0,Unhealthy
+Pepsi,18-35,219,28.0,16.9,3.1,24.6,Unhealthy
+Hide & Seek,0-5,496,28.1,22.6,4.2,16.6,Unhealthy
+Oreo,0-5,395,17.7,28.9,1.4,17.6,Unhealthy
+5050,6-12,293,32.6,27.4,5.4,3.7,Unhealthy
+KitKat,6-12,223,38.6,29.2,5.6,4.9,Unhealthy
+Pepsi,60+,284,39.3,28.1,0.3,22.4,Unhealthy
+Bourbon,18-35,341,7.0,18.2,1.0,20.1,Unhealthy
+Bourbon,13-17,310,39.4,28.0,14.9,21.1,Unhealthy
+Pepsi,60+,473,23.9,18.7,5.5,0.3,Unhealthy
+Bingo,13-17,325,10.1,17.3,10.8,9.4,Healthy
+Alpenliebe,60+,420,26.2,25.3,5.7,4.9,Unhealthy
+Good Day,6-12,204,13.1,19.2,3.1,8.2,Healthy
+Oreo,13-17,287,17.8,11.9,7.0,1.0,Unhealthy
+Oreo,13-17,221,7.6,11.0,13.5,9.4,Healthy
+Bingo,18-35,94,11.9,21.7,1.0,21.1,Unhealthy
+Boost Packet,18-35,296,11.4,17.6,8.8,17.4,Healthy
+Lays Munch,13-17,363,10.8,21.0,3.0,10.4,Unhealthy
+Pringles,6-12,161,40.9,26.2,12.8,17.7,Unhealthy
+5 Star,6-12,369,37.4,14.9,13.4,2.5,Unhealthy
+Coke,13-17,286,7.1,8.1,7.6,6.9,Healthy
+Lays Munch,18-35,432,42.4,22.9,2.4,18.0,Unhealthy
+Lottie Choco Pie,6-12,443,25.1,12.1,1.9,3.7,Unhealthy
+Perk,6-12,429,10.5,29.9,9.8,14.9,Healthy
+Pepsi,18-35,236,5.9,5.0,10.1,0.1,Healthy
+Perk,36-60,492,28.4,15.7,5.2,22.5,Unhealthy
+Hershey's,60+,220,18.4,6.7,13.7,7.5,Unhealthy
+Dairy Milk,36-60,62,17.9,21.8,1.3,10.8,Unhealthy
+Boost Packet,0-5,190,30.9,29.8,4.6,3.0,Unhealthy
+Dairy Milk,13-17,104,41.2,9.0,13.8,24.4,Unhealthy
+Pepsi,6-12,160,31.8,21.8,6.1,0.5,Unhealthy
+Boost Packet,0-5,377,40.5,26.8,1.0,23.8,Unhealthy
+Pringles,18-35,430,36.2,16.8,2.0,6.5,Unhealthy
+Hershey's,36-60,448,27.9,29.8,5.0,13.0,Unhealthy
+Oreo,6-12,123,41.1,15.1,11.9,6.4,Unhealthy
+Coke,36-60,138,14.1,1.4,14.9,14.7,Healthy
+Perk,36-60,99,6.5,27.0,13.7,10.9,Healthy
+Oreo,18-35,249,16.6,23.2,6.9,14.7,Unhealthy
+Oreo,36-60,199,46.4,21.2,4.5,19.5,Unhealthy
+Hershey's,13-17,232,30.6,14.4,4.4,9.7,Unhealthy
+Lays Munch,0-5,146,17.2,16.3,12.3,19.0,Unhealthy
+Pringles,6-12,183,35.6,18.9,6.2,11.7,Unhealthy
+Lays Munch,6-12,61,35.1,15.5,13.5,8.3,Unhealthy
+Hide & Seek,0-5,486,27.4,1.8,7.3,17.7,Unhealthy
+Toblerone,60+,258,26.7,2.4,7.8,18.7,Unhealthy
+Oreo,6-12,214,41.1,10.7,13.0,5.4,Unhealthy
+Oreo,13-17,206,30.6,18.3,14.1,7.8,Unhealthy
+5 Star,60+,428,22.0,16.8,10.8,14.3,Unhealthy
+Maggi,60+,200,44.1,29.7,13.9,10.1,Unhealthy
+Toblerone,13-17,331,48.5,12.1,0.3,2.7,Unhealthy
+5 Star,18-35,363,49.4,25.5,12.6,0.5,Unhealthy
+Pringles,18-35,80,9.8,26.4,0.1,13.2,Unhealthy
+Bingo,6-12,281,23.4,2.6,6.8,15.9,Unhealthy
+Bourbon,13-17,249,25.9,26.5,1.7,19.0,Unhealthy
+Hershey's,6-12,356,48.7,11.7,5.5,19.9,Unhealthy
+Alpenliebe,13-17,348,44.7,8.2,12.6,18.0,Unhealthy
+Maggi,6-12,275,5.8,24.2,10.7,5.1,Healthy
+Hide & Seek,6-12,487,11.9,1.6,4.6,23.9,Unhealthy
+Oreo,13-17,290,29.4,1.5,4.5,6.3,Unhealthy
+Good Day,0-5,307,22.8,3.1,1.3,11.5,Unhealthy
+Pepsi,6-12,185,5.2,0.3,1.3,6.6,Healthy
+Maggi,6-12,226,15.2,1.6,5.3,18.0,Unhealthy
+5050,36-60,405,48.8,10.2,6.0,18.0,Unhealthy
+Pringles,18-35,62,24.2,26.2,10.5,8.0,Unhealthy
+5050,0-5,256,27.8,20.9,13.8,2.8,Unhealthy
+Parle G,18-35,242,25.2,23.9,1.8,2.1,Unhealthy
+Good Day,60+,168,29.1,21.8,0.9,23.0,Unhealthy
+Bourbon,13-17,451,20.1,16.8,11.8,4.0,Unhealthy
+Pepsi,0-5,50,1.4,0.3,5.9,20.8,Unhealthy
+Pepsi,6-12,334,4.7,28.8,10.4,22.8,Healthy
+5050,18-35,109,45.6,11.6,4.7,17.5,Unhealthy
+Toblerone,0-5,308,44.2,26.5,3.9,18.0,Unhealthy
+Coke,36-60,307,14.4,0.2,8.5,2.6,Unhealthy
+Perk,18-35,110,42.3,24.4,10.3,14.5,Unhealthy
+Pepsi,36-60,371,23.3,10.3,14.6,21.2,Unhealthy
+Oreo,36-60,284,29.8,21.9,6.6,18.0,Unhealthy
+Toblerone,13-17,392,4.7,27.0,5.0,9.7,Healthy
+Bingo,36-60,162,25.4,22.7,14.7,10.0,Unhealthy
+Perk,13-17,454,40.1,22.2,7.3,6.2,Unhealthy
+Hershey's,6-12,171,27.1,9.4,14.1,19.1,Unhealthy
+Parle G,60+,243,44.4,15.8,5.7,13.8,Unhealthy
+Maggi,6-12,68,49.2,5.3,11.2,4.2,Unhealthy
+Oreo,13-17,200,18.7,25.8,2.7,3.1,Unhealthy
+Toblerone,13-17,274,25.1,1.5,1.1,13.3,Unhealthy
+Parle G,18-35,127,12.6,0.8,14.4,15.1,Healthy
+Hide & Seek,36-60,419,7.6,8.4,6.0,7.6,Healthy
+Hide & Seek,0-5,265,34.4,28.1,3.6,2.0,Unhealthy
+Toblerone,18-35,202,15.4,13.6,11.8,23.1,Unhealthy
+Maggi,36-60,347,35.1,23.7,11.1,23.4,Unhealthy
+Oreo,60+,308,34.7,2.7,8.0,19.4,Unhealthy
+Lays Munch,60+,409,20.9,8.8,3.5,18.9,Unhealthy
+Hershey's,0-5,459,31.6,5.6,1.1,16.7,Unhealthy
+Bingo,0-5,184,40.1,25.7,12.6,8.9,Unhealthy
+Lays Munch,0-5,444,11.3,19.2,0.3,13.9,Unhealthy
+Toblerone,60+,104,23.5,20.8,1.7,21.2,Unhealthy
+Sprite,13-17,217,23.2,5.6,12.9,14.9,Unhealthy
+Hide & Seek,0-5,65,11.8,9.0,13.5,21.7,Healthy
+Coke,18-35,428,17.2,3.5,6.5,1.6,Unhealthy
+Pringles,18-35,118,24.1,0.8,5.9,5.0,Unhealthy
+Hide & Seek,13-17,443,3.0,2.6,6.4,18.5,Unhealthy
+Lays Munch,36-60,308,3.6,20.5,10.7,24.2,Healthy
+Maggi,6-12,99,4.8,10.6,12.0,13.5,Healthy
+Dairy Milk,36-60,61,1.8,20.4,4.4,17.4,Healthy
+Pepsi,18-35,184,39.3,16.6,3.4,7.6,Unhealthy
+Hide & Seek,60+,51,8.1,4.4,14.0,15.3,Unhealthy
+Dairy Milk,6-12,114,39.9,15.1,4.9,15.5,Unhealthy
+Bingo,18-35,305,28.8,7.9,11.0,15.5,Unhealthy
+Maggi,13-17,148,15.4,26.2,14.6,4.1,Unhealthy
+KitKat,6-12,440,22.2,6.5,9.2,17.6,Unhealthy
+Hershey's,6-12,396,26.8,2.3,3.7,4.9,Unhealthy
+Toblerone,0-5,286,23.6,15.2,1.5,19.9,Unhealthy
+Perk,0-5,330,19.2,19.2,0.3,21.7,Unhealthy
+Good Day,0-5,457,14.7,27.1,14.9,13.1,Healthy
+Bourbon,6-12,366,7.0,27.6,11.0,12.7,Healthy
+Coke,6-12,90,1.4,27.2,6.8,11.2,Healthy
+Parle G,18-35,448,5.8,2.9,10.1,1.6,Unhealthy
+Bourbon,13-17,365,19.0,1.1,13.7,14.0,Unhealthy
+Bourbon,6-12,494,37.8,10.2,3.6,16.6,Unhealthy
+Hide & Seek,60+,171,42.3,17.7,10.2,11.7,Unhealthy
+Pepsi,0-5,89,35.8,12.9,11.4,11.7,Unhealthy
+Good Day,18-35,479,47.8,27.4,9.7,24.8,Unhealthy
+Boost Packet,60+,123,17.5,8.8,3.4,6.4,Unhealthy
+Oreo,60+,103,19.9,16.0,11.9,22.0,Unhealthy
+Good Day,6-12,209,0.5,18.3,8.5,18.0,Healthy
+5 Star,13-17,141,13.4,16.3,12.2,16.7,Healthy
+Lottie Choco Pie,60+,131,36.2,4.0,1.3,2.8,Unhealthy
+Bourbon,6-12,245,18.1,29.9,4.3,15.6,Unhealthy
+Coke,13-17,455,18.2,16.5,0.6,7.3,Unhealthy
+Lottie Choco Pie,36-60,331,37.5,4.7,6.6,9.5,Unhealthy
+KitKat,6-12,279,29.9,24.5,3.4,12.4,Unhealthy
+Lays Munch,0-5,310,29.8,26.5,3.6,18.4,Unhealthy
+KitKat,60+,325,19.0,28.0,7.9,8.3,Unhealthy
+Parle G,6-12,399,27.7,9.8,12.3,9.7,Unhealthy
+Hershey's,36-60,365,40.4,4.9,11.0,9.8,Unhealthy
+Bingo,6-12,130,27.8,10.6,10.8,16.6,Unhealthy
+Lottie Choco Pie,6-12,113,26.2,11.1,14.1,6.4,Unhealthy
+5 Star,0-5,181,35.5,4.0,12.7,8.1,Unhealthy
+Alpenliebe,36-60,305,45.9,3.3,8.7,2.9,Unhealthy
+Lays Munch,13-17,264,17.8,13.9,6.3,14.3,Unhealthy
+Bourbon,36-60,291,49.2,21.6,6.3,20.9,Unhealthy
+Bourbon,18-35,210,14.9,9.5,7.7,2.9,Healthy
+5 Star,13-17,232,3.5,19.1,13.7,17.9,Healthy
+Hershey's,6-12,478,5.6,1.3,4.8,3.9,Unhealthy
+Hide & Seek,6-12,356,4.0,0.9,7.3,14.1,Unhealthy
+Hide & Seek,0-5,378,44.9,1.8,4.0,17.1,Unhealthy
+Lottie Choco Pie,13-17,333,14.3,13.7,9.7,8.8,Healthy
+Dairy Milk,0-5,341,14.3,18.5,4.8,9.8,Healthy
+Perk,36-60,193,29.9,5.2,12.4,4.0,Unhealthy
+Good Day,0-5,354,17.6,23.6,14.3,2.9,Unhealthy
+5 Star,18-35,67,16.7,15.2,3.9,5.3,Unhealthy
+Toblerone,6-12,367,49.2,16.6,14.1,19.5,Unhealthy
+Lottie Choco Pie,18-35,192,8.1,11.7,3.2,23.4,Healthy
+Hershey's,60+,202,9.9,26.3,4.4,9.5,Healthy
+Pringles,60+,191,39.8,4.5,11.2,18.7,Unhealthy
+Sprite,36-60,338,9.0,1.3,9.3,8.0,Unhealthy
+5050,60+,389,22.7,7.1,11.4,19.4,Unhealthy
+Oreo,13-17,98,34.9,12.8,7.4,24.3,Unhealthy
+Alpenliebe,13-17,405,29.8,24.0,1.7,23.9,Unhealthy
+Toblerone,36-60,285,30.9,21.5,1.9,18.7,Unhealthy
+Lays Munch,60+,168,40.5,1.4,2.1,16.0,Unhealthy
+Alpenliebe,36-60,60,32.4,15.8,7.7,22.8,Unhealthy
+Alpenliebe,18-35,443,41.9,3.8,14.3,23.1,Unhealthy
+Dairy Milk,0-5,206,49.3,19.6,0.3,5.0,Unhealthy
+5050,13-17,246,39.3,11.5,12.7,12.1,Unhealthy
+Pepsi,13-17,236,38.8,1.8,12.8,2.0,Unhealthy
+Lays Munch,6-12,262,18.1,13.3,8.9,14.3,Unhealthy
+5050,0-5,298,20.8,10.7,8.2,11.6,Unhealthy
+Lottie Choco Pie,18-35,399,9.5,2.6,9.7,17.3,Unhealthy
+Hide & Seek,13-17,482,25.8,14.4,3.8,5.7,Unhealthy
+Perk,13-17,65,25.5,12.1,6.6,17.4,Unhealthy
+Alpenliebe,36-60,366,19.2,9.3,8.2,14.0,Unhealthy
+Perk,36-60,393,14.2,10.0,4.0,16.0,Healthy
+Toblerone,60+,157,14.7,4.1,7.7,21.3,Healthy
+Lottie Choco Pie,6-12,164,1.1,0.5,6.3,10.0,Healthy
+Good Day,13-17,384,26.5,14.8,5.1,1.5,Unhealthy
+Bourbon,6-12,113,4.1,21.8,10.1,17.4,Healthy
+Lottie Choco Pie,36-60,190,7.8,4.5,8.3,20.0,Healthy
+Coke,0-5,229,14.0,26.2,8.8,4.4,Healthy
+Hershey's,13-17,118,9.2,14.8,11.3,14.7,Healthy
+Alpenliebe,6-12,377,14.7,20.2,12.9,2.7,Healthy
+Parle G,60+,257,15.0,8.5,8.8,18.4,Healthy
+Good Day,36-60,185,1.2,24.7,0.0,19.8,Healthy
+Perk,36-60,348,4.0,20.1,1.4,9.6,Unhealthy
+Hershey's,0-5,491,25.3,23.3,12.1,0.8,Unhealthy
+Maggi,13-17,395,45.4,24.1,13.4,20.2,Unhealthy
+Maggi,36-60,316,26.2,24.1,11.3,9.4,Unhealthy
+5050,18-35,214,8.2,29.0,11.6,23.3,Healthy
+Toblerone,0-5,265,8.8,23.9,4.5,21.3,Healthy
+Bourbon,0-5,164,32.1,23.2,11.5,2.7,Unhealthy
+KitKat,13-17,341,8.8,3.1,14.4,1.0,Unhealthy
+Pepsi,18-35,462,21.6,0.4,11.9,18.2,Unhealthy
+Pringles,13-17,452,32.3,16.6,2.0,13.1,Unhealthy
+Dairy Milk,13-17,420,50.0,28.5,13.9,13.4,Unhealthy
+KitKat,18-35,455,49.7,7.3,1.5,24.8,Unhealthy
+Hide & Seek,6-12,355,19.7,29.1,5.1,10.1,Unhealthy
+Hershey's,0-5,347,25.3,9.5,13.2,19.2,Unhealthy
+Boost Packet,6-12,351,14.4,21.1,7.7,13.9,Healthy
+Lays Munch,0-5,160,39.1,29.2,1.3,11.6,Unhealthy
+KitKat,13-17,475,45.5,9.6,9.5,5.6,Unhealthy
+Bingo,18-35,251,4.2,25.5,5.7,10.7,Healthy
+Hershey's,0-5,400,23.0,9.2,14.1,20.0,Unhealthy
+Oreo,13-17,282,40.2,28.2,6.7,20.6,Unhealthy
+Lottie Choco Pie,13-17,289,49.7,23.7,12.6,10.2,Unhealthy
+Alpenliebe,0-5,462,34.4,27.7,14.3,19.8,Unhealthy
+Toblerone,60+,483,16.0,1.9,9.8,15.8,Unhealthy
+KitKat,18-35,131,10.4,4.5,8.7,14.9,Healthy
+Hershey's,13-17,115,31.5,13.2,3.7,11.5,Unhealthy
+Lottie Choco Pie,13-17,51,39.8,25.4,3.0,24.2,Unhealthy
+Dairy Milk,36-60,429,35.2,17.9,10.1,9.2,Unhealthy
+Oreo,13-17,336,37.8,18.6,14.9,12.3,Unhealthy
+Lays Munch,36-60,166,15.6,9.7,8.5,1.0,Unhealthy
+Coke,36-60,393,8.6,4.1,3.7,23.6,Unhealthy
+Parle G,18-35,476,48.9,16.2,9.3,0.2,Unhealthy
+Perk,6-12,337,26.0,10.8,13.5,19.3,Unhealthy
+5050,0-5,219,10.0,16.5,9.4,21.4,Healthy
+Maggi,0-5,496,47.4,12.0,14.3,7.1,Unhealthy
+5050,36-60,468,34.9,10.2,4.1,21.0,Unhealthy
+Lays Munch,18-35,332,30.5,20.9,14.9,9.8,Unhealthy
+Coke,6-12,286,24.1,0.9,13.0,17.6,Unhealthy
+Boost Packet,18-35,109,37.9,28.6,3.3,23.0,Unhealthy
+Sprite,6-12,157,23.9,0.9,5.8,16.3,Unhealthy
+Parle G,36-60,318,41.5,28.8,3.4,8.0,Unhealthy
+Boost Packet,6-12,418,31.3,15.7,0.0,13.4,Unhealthy
+Parle G,18-35,356,6.0,14.6,5.0,1.7,Healthy
+Coke,18-35,420,6.4,20.4,6.0,12.2,Healthy
+Hide & Seek,60+,255,46.1,13.5,11.3,3.3,Unhealthy
+Bourbon,60+,202,0.7,16.3,3.5,6.0,Healthy
+Coke,18-35,237,10.7,26.9,4.4,16.8,Healthy
+5 Star,60+,105,33.5,20.1,5.8,20.7,Unhealthy
+Dairy Milk,60+,229,46.3,28.1,4.1,17.3,Unhealthy
+Bourbon,36-60,411,42.1,13.3,1.7,20.0,Unhealthy
+Oreo,18-35,147,9.5,29.0,5.8,15.0,Healthy
+KitKat,13-17,490,23.6,9.2,9.2,22.1,Unhealthy
+5 Star,13-17,105,19.9,26.8,8.4,11.5,Unhealthy
+Bourbon,36-60,454,35.4,0.7,7.8,6.9,Unhealthy
+Oreo,13-17,349,5.6,25.8,3.8,10.4,Healthy
+Bingo,6-12,229,2.5,29.2,7.9,24.2,Healthy
+Toblerone,18-35,382,40.2,10.4,3.8,19.6,Unhealthy
+Bourbon,36-60,386,4.8,22.4,15.0,14.3,Healthy
+Toblerone,6-12,333,0.4,24.6,11.0,17.7,Healthy
+Hide & Seek,6-12,199,6.2,10.4,4.7,13.5,Healthy
+5 Star,18-35,384,46.2,14.4,4.4,2.4,Unhealthy
+Boost Packet,0-5,466,3.5,9.3,7.0,13.0,Healthy
+Bourbon,0-5,265,25.7,11.3,2.5,11.8,Unhealthy
+Pringles,36-60,122,2.4,5.2,11.8,16.3,Healthy
+Lottie Choco Pie,0-5,97,20.3,29.0,9.3,21.3,Unhealthy
+5 Star,60+,341,40.3,22.7,11.3,19.8,Unhealthy
+Bourbon,0-5,115,11.1,22.0,12.9,9.8,Healthy
+Hershey's,0-5,58,25.3,12.3,12.5,22.0,Unhealthy
+Hide & Seek,6-12,357,42.4,20.6,6.7,7.2,Unhealthy
+Good Day,36-60,153,42.5,18.1,2.0,21.6,Unhealthy
+Toblerone,6-12,460,7.8,18.7,2.6,9.7,Unhealthy
+Bourbon,36-60,188,4.5,11.7,5.1,0.1,Healthy
+Maggi,6-12,476,47.8,24.9,5.9,11.2,Unhealthy
+Toblerone,13-17,111,32.2,26.8,6.8,12.6,Unhealthy
+Hide & Seek,0-5,136,27.1,16.8,14.5,7.6,Unhealthy
+Hide & Seek,36-60,319,42.5,26.5,2.0,4.0,Unhealthy
+Alpenliebe,6-12,248,42.4,16.6,9.2,21.2,Unhealthy
+Oreo,18-35,373,39.6,13.9,1.9,16.3,Unhealthy
+Bingo,60+,113,13.5,8.7,0.8,8.9,Healthy
+5050,0-5,293,23.2,27.0,15.0,4.8,Unhealthy
+Bingo,0-5,458,7.1,15.6,8.6,21.0,Healthy
+Parle G,13-17,331,23.3,22.4,2.7,13.1,Unhealthy
+Toblerone,6-12,417,29.6,26.0,10.3,5.5,Unhealthy
+Oreo,60+,399,5.3,14.6,0.6,10.1,Unhealthy
+Bingo,0-5,243,42.2,1.4,9.8,9.5,Unhealthy
+5050,13-17,92,10.7,8.3,13.6,15.5,Healthy
+Sprite,6-12,65,37.8,12.3,11.5,0.0,Unhealthy
+5050,36-60,478,30.0,1.1,11.7,16.9,Unhealthy
+Hide & Seek,13-17,145,46.2,11.7,9.3,0.6,Unhealthy
+Alpenliebe,13-17,304,16.4,21.4,10.8,2.6,Unhealthy
+Parle G,18-35,66,9.4,0.7,0.3,22.3,Unhealthy
+KitKat,13-17,75,36.2,16.6,13.9,21.2,Unhealthy
+Boost Packet,6-12,50,47.3,8.8,11.0,18.7,Unhealthy
+5 Star,13-17,403,1.2,17.2,8.8,8.3,Healthy
+Perk,36-60,494,17.8,11.4,7.5,24.5,Unhealthy
+Hershey's,0-5,374,18.4,0.2,3.6,17.4,Unhealthy
+Alpenliebe,0-5,152,31.3,23.5,9.5,8.8,Unhealthy
+Pringles,0-5,314,38.4,5.5,14.5,6.6,Unhealthy
+Hide & Seek,0-5,333,47.4,10.3,14.5,18.1,Unhealthy
+Boost Packet,6-12,184,25.8,13.9,6.9,17.8,Unhealthy
+Sprite,13-17,92,3.8,24.2,5.5,17.7,Healthy
+5 Star,60+,256,31.0,25.4,4.5,8.4,Unhealthy
+Bourbon,18-35,440,29.2,21.2,0.7,6.3,Unhealthy
+Bourbon,60+,234,4.7,2.6,7.9,0.1,Healthy
+Parle G,18-35,235,37.2,17.3,4.0,10.2,Unhealthy
+Toblerone,60+,140,45.7,19.1,5.0,4.2,Unhealthy
+Perk,13-17,398,29.2,4.6,3.0,21.6,Unhealthy
+Coke,13-17,157,26.8,22.0,7.2,9.2,Unhealthy
+Alpenliebe,13-17,137,30.4,2.8,14.7,9.7,Unhealthy
+Hershey's,60+,319,44.4,14.0,2.5,20.9,Unhealthy
+Hide & Seek,0-5,139,30.9,21.0,1.8,19.0,Unhealthy
+Hide & Seek,13-17,270,10.8,20.9,9.5,6.5,Healthy
+Sprite,36-60,100,41.6,10.8,5.7,19.5,Unhealthy
+Pepsi,6-12,246,28.1,26.0,0.3,10.1,Unhealthy
+Coke,6-12,241,48.2,14.6,10.1,19.6,Unhealthy
+Perk,60+,423,30.6,12.1,11.7,13.9,Unhealthy
+Lottie Choco Pie,6-12,283,20.9,29.8,11.3,20.6,Unhealthy
+Toblerone,0-5,190,7.3,17.7,3.2,5.4,Healthy
+Sprite,60+,148,43.6,27.1,0.3,3.9,Unhealthy
+Lottie Choco Pie,6-12,368,35.0,19.9,3.6,14.5,Unhealthy
+Hershey's,18-35,283,18.4,11.2,11.8,0.3,Unhealthy
+Oreo,18-35,200,35.7,8.4,0.3,2.5,Unhealthy
+Coke,6-12,110,39.2,7.4,13.7,9.0,Unhealthy
+Parle G,60+,407,25.7,19.0,6.9,7.9,Unhealthy
+Maggi,6-12,155,29.6,24.1,7.7,5.8,Unhealthy
+Hide & Seek,60+,102,25.4,1.9,4.7,22.5,Unhealthy
+Oreo,36-60,446,14.2,13.5,9.9,11.6,Healthy
+Hershey's,13-17,413,28.5,5.8,4.2,8.3,Unhealthy
+Bingo,36-60,433,31.5,6.2,11.2,17.9,Unhealthy
+Hide & Seek,36-60,291,49.2,20.1,3.8,17.0,Unhealthy
+Pringles,6-12,278,38.1,15.6,13.5,0.8,Unhealthy
+Dairy Milk,36-60,189,23.8,0.4,3.8,7.1,Unhealthy
+Maggi,60+,289,7.5,10.5,7.4,17.6,Healthy
+Alpenliebe,36-60,291,11.6,28.9,4.1,22.3,Healthy
+Alpenliebe,0-5,386,42.7,29.2,0.2,10.7,Unhealthy
+Lottie Choco Pie,18-35,80,43.6,6.1,3.0,5.3,Unhealthy
+Alpenliebe,60+,305,41.9,9.0,11.2,0.8,Unhealthy
+Pringles,60+,236,1.5,11.7,6.1,3.3,Healthy
+Bingo,36-60,113,47.9,9.6,8.6,0.5,Unhealthy
+Perk,18-35,376,1.1,7.8,12.8,16.2,Healthy
+Hide & Seek,6-12,262,8.4,5.8,8.4,14.3,Healthy
+Pepsi,36-60,264,35.2,22.8,8.9,3.0,Unhealthy
+Hide & Seek,13-17,368,40.8,11.4,6.3,5.2,Unhealthy
+Boost Packet,18-35,422,13.7,2.9,3.7,21.0,Unhealthy
+Perk,6-12,367,49.1,22.8,0.3,23.7,Unhealthy
+Boost Packet,18-35,70,23.5,12.6,6.4,11.8,Unhealthy
+5050,36-60,399,49.5,8.2,12.2,16.7,Unhealthy
+KitKat,18-35,117,20.6,15.0,3.9,15.3,Unhealthy
+Lottie Choco Pie,60+,255,38.6,19.3,13.4,22.5,Unhealthy
+Pepsi,18-35,125,31.5,3.6,14.5,10.9,Unhealthy
+Hershey's,6-12,94,40.5,9.1,13.0,13.0,Unhealthy
+Alpenliebe,13-17,441,1.1,5.6,5.0,7.7,Healthy
+Pepsi,6-12,371,39.3,4.3,3.3,4.3,Unhealthy
+Sprite,13-17,70,45.9,18.7,10.1,17.5,Unhealthy
+5 Star,60+,384,1.6,16.9,2.9,18.9,Unhealthy
+Toblerone,13-17,339,47.6,23.5,14.9,17.2,Unhealthy
+5050,6-12,179,48.2,21.4,2.4,0.1,Unhealthy
+Toblerone,0-5,157,40.9,17.7,13.4,10.7,Unhealthy
+Good Day,13-17,150,22.2,12.0,12.9,3.4,Unhealthy
+Oreo,60+,484,24.4,9.0,7.3,8.7,Unhealthy
+Sprite,60+,379,5.4,14.3,0.9,8.7,Unhealthy
+Toblerone,13-17,415,5.1,10.5,8.1,22.6,Healthy
+Lottie Choco Pie,13-17,309,37.8,10.4,12.8,22.0,Unhealthy
+Oreo,18-35,255,47.8,25.7,9.9,20.3,Unhealthy
+Hershey's,13-17,60,35.0,6.9,2.7,7.7,Unhealthy
+Perk,60+,275,33.8,12.8,1.7,24.7,Unhealthy
+Hershey's,60+,491,6.3,20.8,6.4,7.2,Healthy
+Coke,60+,206,34.1,22.2,2.3,24.4,Unhealthy
+Perk,6-12,150,37.5,25.3,7.6,5.1,Unhealthy
+Toblerone,0-5,420,18.3,17.6,3.7,5.4,Unhealthy
+Boost Packet,0-5,166,30.8,24.5,3.3,13.4,Unhealthy
+Parle G,6-12,402,24.4,27.9,4.2,21.8,Unhealthy
+Alpenliebe,60+,347,3.3,29.7,10.1,10.7,Healthy
+Sprite,13-17,183,0.4,7.9,14.3,20.4,Healthy
+Dairy Milk,18-35,350,17.0,12.8,2.4,4.4,Unhealthy
+Bingo,13-17,464,4.7,5.1,9.1,21.3,Healthy
+Bourbon,36-60,166,34.5,5.5,1.1,1.7,Unhealthy
+5 Star,18-35,192,12.0,20.2,2.8,10.3,Healthy
+5 Star,13-17,238,35.4,28.3,6.1,15.6,Unhealthy
+Toblerone,0-5,377,24.1,2.5,5.4,11.0,Unhealthy
+5050,36-60,447,24.4,14.6,2.2,12.2,Unhealthy
+Good Day,13-17,78,2.2,3.0,0.4,21.4,Unhealthy
+Alpenliebe,0-5,206,35.3,23.9,7.3,19.3,Unhealthy
+Hershey's,13-17,443,6.6,14.9,6.4,23.1,Healthy
+Parle G,6-12,184,41.8,4.5,14.7,15.3,Unhealthy
+Maggi,6-12,94,25.9,20.8,8.8,13.3,Unhealthy
+Hide & Seek,18-35,199,37.8,0.7,13.3,21.7,Unhealthy
+Lottie Choco Pie,60+,101,31.5,23.4,0.1,13.8,Unhealthy
+Alpenliebe,13-17,129,41.5,4.0,2.6,20.0,Unhealthy
+Bingo,6-12,188,48.9,15.4,12.7,17.9,Unhealthy
+Oreo,6-12,107,2.0,3.2,14.6,9.0,Healthy
+Boost Packet,60+,340,19.6,27.8,14.7,12.5,Unhealthy
+5050,60+,416,20.6,23.5,0.7,5.1,Unhealthy
+Bingo,13-17,107,2.5,7.8,3.5,3.6,Healthy
+Bingo,60+,377,33.2,24.4,6.0,7.2,Unhealthy
+Coke,13-17,388,25.3,25.9,2.4,5.9,Unhealthy
+Pringles,18-35,480,38.9,0.9,9.7,24.1,Unhealthy
+Coke,13-17,182,32.1,16.2,12.0,10.8,Unhealthy
+Sprite,13-17,479,14.1,12.8,3.0,19.0,Unhealthy
+Perk,0-5,457,18.8,17.9,0.6,12.9,Unhealthy
+Oreo,6-12,444,37.4,13.9,7.8,7.5,Unhealthy
+Lays Munch,6-12,405,10.5,28.3,0.3,12.7,Unhealthy
+KitKat,60+,402,15.8,22.3,14.7,9.0,Unhealthy
+Dairy Milk,60+,364,20.4,23.0,9.9,1.8,Unhealthy
+Oreo,6-12,312,46.2,25.7,10.2,24.4,Unhealthy
+Lays Munch,13-17,259,11.1,24.9,8.6,8.2,Healthy
+Coke,6-12,476,21.3,10.2,12.7,20.5,Unhealthy
+Boost Packet,0-5,160,28.6,13.8,9.4,4.9,Unhealthy
+Pepsi,60+,202,37.7,13.4,9.0,22.9,Unhealthy
+Good Day,60+,201,11.9,28.8,11.4,21.0,Healthy
+Bourbon,13-17,455,37.7,29.9,12.4,2.6,Unhealthy
+Lays Munch,60+,473,49.5,23.0,14.0,13.6,Unhealthy
+Hershey's,13-17,246,41.8,5.8,10.2,5.4,Unhealthy
+5 Star,60+,317,42.1,17.9,2.2,20.2,Unhealthy
+Hide & Seek,6-12,79,7.5,17.2,7.9,16.8,Healthy
+Sprite,13-17,352,32.7,9.6,4.3,5.1,Unhealthy
+Bingo,60+,317,9.3,6.1,11.1,14.8,Healthy
+Maggi,13-17,460,23.9,19.2,9.4,2.1,Unhealthy
+Pepsi,13-17,86,37.1,17.0,8.4,18.7,Unhealthy
+Oreo,13-17,251,13.0,27.6,8.3,22.2,Healthy
+Bingo,60+,339,9.5,24.6,12.5,22.6,Healthy
+Good Day,13-17,85,45.9,1.2,2.7,9.1,Unhealthy
+Boost Packet,13-17,412,49.5,5.5,8.5,11.1,Unhealthy
+Alpenliebe,18-35,248,19.7,26.1,9.6,16.4,Unhealthy
+5050,18-35,424,35.8,17.4,12.1,19.6,Unhealthy
+Alpenliebe,13-17,335,0.1,21.5,12.0,8.6,Healthy
+5050,6-12,349,33.2,29.9,6.1,0.7,Unhealthy
+5050,13-17,171,35.7,4.1,0.8,10.7,Unhealthy
+Good Day,36-60,455,48.1,21.4,2.7,14.3,Unhealthy
+Maggi,36-60,233,37.5,17.1,9.9,8.6,Unhealthy
+Boost Packet,13-17,254,15.2,18.1,8.4,17.5,Unhealthy
+Bourbon,6-12,86,10.8,11.0,1.5,14.4,Unhealthy
+Alpenliebe,60+,433,14.9,20.5,1.9,6.3,Unhealthy
+Bourbon,0-5,134,17.8,16.8,12.4,2.9,Unhealthy
+Perk,60+,51,7.0,26.6,6.9,9.3,Healthy
+Good Day,36-60,220,4.9,29.2,12.0,14.3,Healthy
+Lottie Choco Pie,13-17,215,23.9,10.2,12.1,1.2,Unhealthy
+Parle G,6-12,369,40.2,3.6,14.3,4.2,Unhealthy
+Maggi,60+,206,35.1,29.0,7.0,6.0,Unhealthy
+Maggi,0-5,67,0.6,20.5,5.2,6.3,Healthy
+Hershey's,6-12,498,44.8,16.5,12.9,22.2,Unhealthy
+Dairy Milk,13-17,254,14.2,7.3,1.6,6.0,Healthy
+Dairy Milk,60+,155,37.1,28.6,11.5,3.9,Unhealthy
+Pringles,6-12,331,44.7,3.6,2.3,14.2,Unhealthy
+Sprite,6-12,434,22.1,5.7,11.2,19.2,Unhealthy
+Lays Munch,18-35,93,5.9,4.0,0.5,18.1,Unhealthy
+Pepsi,18-35,474,43.0,0.9,9.7,8.1,Unhealthy
+Maggi,0-5,465,15.2,25.3,13.9,14.9,Unhealthy
+Lays Munch,6-12,294,34.9,27.3,11.8,0.6,Unhealthy
+Pringles,6-12,243,13.3,15.5,9.1,17.8,Healthy
+Perk,13-17,493,46.4,13.1,6.6,23.0,Unhealthy
+Perk,6-12,382,21.1,19.8,7.3,1.8,Unhealthy
+Coke,60+,300,17.9,8.0,9.5,7.1,Unhealthy
+Perk,36-60,206,44.7,10.7,8.3,22.3,Unhealthy
+Maggi,18-35,247,23.0,10.3,3.0,1.9,Unhealthy
+Oreo,0-5,402,5.5,23.0,11.0,0.9,Healthy
+Pepsi,0-5,192,16.0,18.7,13.4,11.1,Unhealthy
+Hide & Seek,60+,275,27.6,19.5,10.7,24.5,Unhealthy
+Bingo,6-12,78,38.3,8.8,8.1,1.2,Unhealthy
+Hide & Seek,36-60,266,48.1,6.8,0.6,4.8,Unhealthy
+Boost Packet,13-17,304,11.4,14.7,8.1,22.8,Healthy
+Parle G,13-17,380,42.4,22.9,8.1,16.2,Unhealthy
+Sprite,0-5,288,20.6,9.5,12.4,22.5,Unhealthy
+Perk,13-17,63,26.2,16.8,11.0,23.8,Unhealthy
+Dairy Milk,6-12,158,41.1,25.8,1.1,3.7,Unhealthy
+5050,0-5,165,16.8,21.8,10.6,9.6,Unhealthy
+Perk,0-5,328,17.1,28.9,1.5,19.7,Unhealthy
+Pringles,60+,240,8.9,7.6,11.8,14.1,Healthy
+Oreo,13-17,287,10.6,18.3,7.1,10.7,Healthy
+KitKat,18-35,352,8.2,9.5,5.2,18.7,Healthy
+Coke,13-17,401,22.3,10.0,0.6,12.2,Unhealthy
+KitKat,0-5,432,42.1,0.6,6.6,13.3,Unhealthy
+Hide & Seek,60+,158,14.4,9.0,14.2,12.1,Healthy
+Good Day,0-5,493,38.8,22.0,10.2,1.1,Unhealthy
+KitKat,36-60,375,18.0,12.1,7.9,21.4,Unhealthy
+5050,13-17,497,12.2,2.2,0.5,9.9,Unhealthy
+5 Star,18-35,267,17.8,10.2,14.0,22.2,Unhealthy
+Sprite,36-60,394,0.0,17.6,3.2,4.5,Healthy
+Hershey's,6-12,485,44.4,18.5,6.6,20.3,Unhealthy
+Parle G,13-17,379,4.4,2.9,3.2,0.2,Unhealthy
+Alpenliebe,60+,82,14.2,10.1,4.7,12.3,Healthy
+Parle G,0-5,423,16.8,0.3,7.0,13.2,Unhealthy
+Hershey's,0-5,452,41.3,10.0,10.3,9.3,Unhealthy
+Coke,13-17,73,29.3,28.9,5.7,16.0,Unhealthy
+Coke,36-60,324,45.0,11.9,11.5,21.8,Unhealthy
+Hershey's,0-5,75,11.8,19.2,0.5,18.2,Unhealthy
+Perk,60+,377,21.8,16.6,14.2,13.4,Unhealthy
+Oreo,0-5,429,35.3,29.0,4.2,16.5,Unhealthy
+Bourbon,6-12,480,49.4,14.1,13.1,14.5,Unhealthy
+Sprite,18-35,120,9.2,29.6,14.5,14.8,Healthy
+Pepsi,13-17,152,36.5,0.7,6.1,21.0,Unhealthy
+KitKat,18-35,267,34.1,13.5,2.3,6.1,Unhealthy
+5 Star,6-12,195,27.8,22.2,2.0,5.4,Unhealthy
+Hershey's,60+,77,14.8,13.9,12.5,8.6,Healthy
+Toblerone,60+,407,18.8,26.4,11.2,11.3,Unhealthy
+Bourbon,13-17,399,19.4,21.1,6.2,4.9,Unhealthy
+Bingo,60+,149,3.5,20.7,14.0,22.0,Healthy
+Coke,13-17,431,46.5,28.8,3.0,14.6,Unhealthy
+5050,36-60,183,9.5,25.1,12.0,7.5,Healthy
+Parle G,6-12,87,26.1,12.9,14.7,21.3,Unhealthy
+Bingo,13-17,442,33.6,17.4,1.8,4.6,Unhealthy
+Bourbon,6-12,277,15.3,23.2,14.1,21.1,Unhealthy
+Hershey's,36-60,94,21.0,5.8,9.2,11.7,Unhealthy
+Bingo,18-35,440,47.0,12.8,10.6,5.8,Unhealthy
+Toblerone,36-60,362,14.7,7.1,12.8,19.7,Healthy
+Boost Packet,6-12,277,12.8,4.7,3.8,7.0,Healthy
+Coke,0-5,432,6.7,11.7,2.5,23.8,Unhealthy
+5050,60+,63,26.0,14.5,14.0,5.9,Unhealthy
+Bingo,6-12,340,16.3,15.4,2.5,7.7,Unhealthy
+Dairy Milk,6-12,185,40.2,20.6,6.8,5.3,Unhealthy
+Alpenliebe,0-5,437,4.4,21.1,14.2,23.5,Healthy
+Oreo,18-35,177,26.3,7.6,0.8,4.4,Unhealthy
+Hide & Seek,6-12,254,19.0,1.7,1.2,19.7,Unhealthy
+KitKat,18-35,126,24.3,3.4,10.2,5.4,Unhealthy
+Toblerone,0-5,382,41.2,17.7,1.4,8.6,Unhealthy
+Maggi,60+,256,1.6,7.3,1.7,6.2,Healthy
+Hide & Seek,6-12,394,23.3,11.1,4.1,22.4,Unhealthy
+Bingo,6-12,272,0.7,21.9,12.4,8.1,Healthy
+Parle G,0-5,248,37.8,29.1,1.4,6.3,Unhealthy
+Alpenliebe,36-60,496,31.8,14.7,14.7,1.7,Unhealthy
+Pepsi,60+,160,23.7,13.9,13.3,16.6,Unhealthy
+Good Day,13-17,376,41.0,10.2,13.2,15.2,Unhealthy
